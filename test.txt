@@ -1,0 +1,26 @@
+ https://accounts.spotify.com/
+ authorize?
+ response_type=code
+ &
+ client_id=a012d05ac9c14f93922bbeda8054fcd6
+ &
+ scope=user-read-private%20user-read-email%20user-read-recently-played%20user-top-read%20user-follow-read%20user-follow-modify%20playlist-read-private%20playlist-read-collaborative%20playlist-modify-public
+ &
+redirect_uri=http%3A%2F%2Flocalhost:3000
+&
+state=cwN9vkGoWiO8Jz07
+
+boxer@159
+boxer@123
+
+`${authEndpoint}
+?
+client_id=${clientId}
+&
+redirect_uri=${redirectUri}&
+scope=${scopes.join(
+  "%20"
+)}&
+response_type=token
+&
+show_dialog=true`;
