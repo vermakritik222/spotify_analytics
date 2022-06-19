@@ -1,0 +1,10 @@
+https://accounts.spotify.com/en/authorize?response_type=code&client_id={{client_id}}&scope=user-read-private%20user-read-email%20user-read-recently-played%20user-top-read%20user-follow-read%20user-follow-modify%20playlist-read-private%20playlist-read-collaborative%20playlist-modify-public&redirect_uri=https%3A%2F%2Fwww.google.com
+
+
+
+
+
+
+
+
+AQD3lh_-B413BEbmqS1AxCJYfY9acYGxMkknRrP3gxzuHp0_mUzoFuifREM3lzSVj2nv5PDPz_KRj11-BnA-TE_F0uE0WU74PBOXoi_99crIdibE8M1kRhwgaDtXsbNRAymhagijjhqa8wjDCGzX0629jXXdtYvC3RyLdQ9B-CIukoxnurtSG4NKgziz687CblmrT32MfPdbrjHnZLM4FwFAm_BKtdnv1DiLACjWtIuOtvfBH3YXpyf_NL-LWJZnujVOgCUzixedovH493f_cD4XTDlyeUTwkukv2H3jCUZxzN6m6yRXFqknWXLKT_eoT7h-L1EmJhG3WLRYa74R8NcmlRsSol4rSnbK7HGewrxCpb4WYD6nBnGtGA46zriVj_Ub-nH4sm6GKGgMyIP1yzi54s_9SRPJRVM

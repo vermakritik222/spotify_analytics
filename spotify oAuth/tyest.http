@@ -1,0 +1,13 @@
+POST https://accounts.spotify.com/api/token?grant_type=authorization_code&code=AQBzKrFc2uVMN6bF5-58lmjK2a7R9UGt-CiypfCb2-YVf9wFU06p1gP7tBEgqF5Xi9eDMsn_THTenqcgdggeoLVNFVn1KiH7q5zZeYehiHxmvYeRcUZ8EZXX3stq7UUwMqVNS4zTmEbINfIsDAuGYE-0esaW5ofvdWi9NWnLtRulz5BOZMnbXYUMMUGpmS2jVYqHgtcaTPZJqwuLnH7NEY8moeSoGSFpNVJSHDKOqkMHOfZK73mzQ4oc16owQwuKrB5hmTtUJ6l2WrzwWhIWIOvBlGmOfGo0EnPbpo5U9KmSoEj3Fy4ED7DZ-CHhO1Ct_kQ8kw2YsdcNhT1yZB-sqU3PvER8MfGZgk_8iltCH7AlSaAPqzYfqXc3-N0CgFdqeWQE9-1qvr2Rp---VSDtOEa7ww-4Pb4Znxc&redirect_uri=https%3A%2F%2Fwww.google.com
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic <base64 encoded client_id:client_secret>
+
+###
+POST https://accounts.spotify.com/api/token?grant_type=client_credentials
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic <base64 encoded client_id:client_secret>
+
+###
+GET https://api.spotify.com/v1/me
+Content-Type: application/json
+Authorization: Bearer BQAysv67NPiHnSb3KCbp7Cig-SPZz1bCLkVKugRsFxbPI49PEEvsa6WE1AQNft3JKTwaOgxpI9RfT0eSNO3orBcixvaC50jl1onnhAAJWvDq7kLBAXuwI5H0_cfRvoZT3s0HLFNRjgBLka-k3Ab86HPCMV1crj3Rk41T65VqYa2s5ZaYP0wZIzgJNP4Zpr-EDzFnz3ETUMsjfitPkP0rUhWXwmX9MHktlxSq8irjN405QyKMbOGgv-blSkg6BYLfMHCYwAtzyOjNBg
